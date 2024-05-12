@@ -1,6 +1,12 @@
+I followed the video of JavaScript Mastery Youtube channel titled "Build and Deploy a Modern Next.js 14 Application | React, Next JS 14, TypeScript, Tailwind CSS". I didn't add anything myself. <br>
+The owner of the channel left a comment under this video that starts like this: “This tutorial covers Next.js 13.”
+
+[video address](https://www.youtube.com/watch?v=pUNSHPyVryU)
+ <br><br>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Getting Started 
 
 First, run the development server:
 
